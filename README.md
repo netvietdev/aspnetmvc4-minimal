@@ -2,4 +2,4 @@
 A simple starting template for MVC4 project
 
 # Url
-mvcmin.azurewebsites.net
+http://mvcmin.azurewebsites.net
