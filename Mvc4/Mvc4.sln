@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbit.Mvc4Minimal", "Rabbit.Mvc4Minimal\Rabbit.Mvc4Minimal.csproj", "{C75D76DF-BA9D-4F3F-9684-E5B53CD74C2A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{734E1516-07A0-4A1F-9229-64BE9D141432}"
+	ProjectSection(SolutionItems) = preProject
+		Templates\Rabbit.Mvc4Minimal.zip = Templates\Rabbit.Mvc4Minimal.zip
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
