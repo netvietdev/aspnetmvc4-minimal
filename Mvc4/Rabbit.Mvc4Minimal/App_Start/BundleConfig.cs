@@ -16,6 +16,9 @@ namespace Rabbit.Mvc4Minimal.App_Start
 
             bundles.Add(new StyleBundle("~/Content/bootstrap", "//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css")
                 .Include("~/Content/bootstrap.css"));
+
+            bundles.Add(new StyleBundle("~/Content/css")
+                .Include("~/Content/site.css"));
         }
     }
 }
