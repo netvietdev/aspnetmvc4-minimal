@@ -6,9 +6,8 @@ http://mvcmin.azurewebsites.net
 
 ## ^^^
 
-[![* Cloud hosting](4)][2]
-
-[![* Free Cloud Server](3)][2]
+[![* Cloud hosting][4]][2]
+[![* Free Cloud Server][3]][2]
 
 [1]: https://www.cloudrino.net/?ref=4840
 [2]: http://manage.digistar.vn/aff.php?aff=432
